@@ -1,8 +1,9 @@
 ---
 name: User Story
 about: This template is for creating user stories
-title: ''
-labels: ''
+title: Ahmed Shujaa-Aldeen
+labels: bug, documentation, duplicate, enhancement, good first issue, help wanted,
+  invalid, question, wontfix
 assignees: ''
 
 ---
